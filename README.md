@@ -7,3 +7,5 @@ Usage:
   - `git submodule init`
   - `git submodule update`
 - Look for "Browser Plotter" under "Plot Output Settings" in Blender
+
+<b>Note:</b> master version located at https://github.com/mcellteam/browser_plot
